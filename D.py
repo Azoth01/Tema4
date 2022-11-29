@@ -18,7 +18,7 @@ def load_data(nrows):
 
 st.title("TEMA 4: Visualización de Mapas")
 st.subheader("José Luis Quevedo Orrantia")
-st.write('Desarrollo de un código sobre la estructura de una aplicación web que contenga 3 controles para la predicción de ventas de productos de Walmart en el noroeste de los Estados Unidos')
+st.write('Desarrollo de un código sobre la estructura de una aplicación web')
 
 
 data = load_data(1000)
